@@ -16,12 +16,6 @@
       </intent-filter>
     </activity>
     
-    <activity android:name="com.ge.innovation.accreadout.DisplayMessageActivity"
-              android:label="@string/title_activity_display_message">
-      <meta-data android:name="android.support.PARENT_ACTIVITY"
-                 android:value="com.ge.innovation.accreadout.MainActivity" />
-    </activity>
-
   </application>
 
 </manifest>
